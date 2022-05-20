@@ -37,6 +37,7 @@
                 <cornerBR>Damage/Corner</cornerBR> -->
       </damageData>
     </graphicData>
+    <drawerType>MapMeshAndRealTime</drawerType>
     <altitudeLayer>Building</altitudeLayer>
     <tickerType>Normal</tickerType>
     <comps>
@@ -191,6 +192,7 @@
         <cornerBR>Damage/Corner</cornerBR>
       </damageData>
     </graphicData>
+    <drawerType>MapMeshAndRealTime</drawerType>
     <minifiedDef>MinifiedThing</minifiedDef>
     <altitudeLayer>Building</altitudeLayer>
     <tickerType>Normal</tickerType>
@@ -348,6 +350,7 @@
         <rect>(0.2,0.2,0.6,0.6)</rect>
       </damageData>
     </graphicData>
+    <drawerType>MapMeshAndRealTime</drawerType>
     <minifiedDef>MinifiedThing</minifiedDef>
     <altitudeLayer>Building</altitudeLayer>
     <stealable>false</stealable>
@@ -509,6 +512,7 @@
         <cornerBR>Damage/Corner</cornerBR>
       </damageData>
     </graphicData>
+    <drawerType>MapMeshAndRealTime</drawerType>
     <altitudeLayer>Building</altitudeLayer>
     <tickerType>Normal</tickerType>
     <comps>
