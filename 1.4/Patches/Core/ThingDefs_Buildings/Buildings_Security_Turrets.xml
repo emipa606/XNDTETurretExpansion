@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- Mini-Turret -->
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName="Turret_MiniTurret"]/comps</xpath>
+    <value>
+      <li Class="TurretExtensions.CompProperties_Upgradable">
+        <description>Improve the mini-turret's sensors and reinforce its barrel to improve combat performance and reliability.</description>
+        <upgradedTurretDescription>A portable automatic turret. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its modified AI brain can be directly controlled, but is still rather dumb.</upgradedTurretDescription>
+        <costStuffCount>40</costStuffCount>
+        <costList>
+          <ComponentIndustrial>1</ComponentIndustrial>
+        </costList>
+        <researchPrerequisites>
+          <li>GunTurrets</li>
+        </researchPrerequisites>
+        <workToUpgrade>4500</workToUpgrade>
+        <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+        <statOffsets>
+          <ShootingAccuracyTurret>0.005</ShootingAccuracyTurret>
+        </statOffsets>
+        <basePowerConsumptionFactor>1.5</basePowerConsumptionFactor>
+        <fuelCapacityFactor>1.5</fuelCapacityFactor>
+        <fuelMultiplierFactor>1.5</fuelMultiplierFactor>
+      </li>
+    </value>
+  </Operation>
+  <!-- Autocannon Turret -->
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName="Turret_Autocannon"]/comps</xpath>
+    <value>
+      <li Class="TurretExtensions.CompProperties_Upgradable">
+        <description>Improve the autocannon turret's sensors and reinforce it with plasteel to improve accuracy, increase overall durability and reduce flammability.</description>
+        <costList>
+          <Plasteel>40</Plasteel>
+          <ComponentSpacer>2</ComponentSpacer>
+        </costList>
+        <researchPrerequisites>
+          <li>HeavyTurrets</li>
+        </researchPrerequisites>
+        <workToUpgrade>21000</workToUpgrade>
+        <constructionSkillPrerequisite>8</constructionSkillPrerequisite>
+        <turretTopDrawSize>2.7</turretTopDrawSize>
+        <statFactors>
+          <MaxHitPoints>1.5</MaxHitPoints>
+          <Flammability>0.57</Flammability>
+        </statFactors>
+        <statOffsets>
+          <ShootingAccuracyTurret>0.005</ShootingAccuracyTurret>
+        </statOffsets>
+        <basePowerConsumptionFactor>2</basePowerConsumptionFactor>
+        <fuelCapacityFactor>1.5</fuelCapacityFactor>
+        <fuelMultiplierFactor>1.5</fuelMultiplierFactor>
+      </li>
+    </value>
+  </Operation>
+  <!-- Uranium Slug Turret-->
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName="Turret_Sniper"]/comps</xpath>
+    <value>
+      <li Class="TurretExtensions.CompProperties_Upgradable">
+        <description>Improve the uranium slug turret's sensors and reinforce it with plasteel to improve accuracy, increase overall durability and reduce flammability.</description>
+        <costList>
+          <Plasteel>60</Plasteel>
+          <ComponentSpacer>3</ComponentSpacer>
+        </costList>
+        <researchPrerequisites>
+          <li>SniperTurret</li>
+        </researchPrerequisites>
+        <workToUpgrade>21000</workToUpgrade>
+        <constructionSkillPrerequisite>8</constructionSkillPrerequisite>
+        <statFactors>
+          <MaxHitPoints>1.5</MaxHitPoints>
+          <Flammability>0.57</Flammability>
+        </statFactors>
+        <statOffsets>
+          <ShootingAccuracyTurret>0.008</ShootingAccuracyTurret>
+        </statOffsets>
+        <basePowerConsumptionFactor>2</basePowerConsumptionFactor>
+        <fuelCapacityFactor>1.25</fuelCapacityFactor>
+        <fuelMultiplierFactor>1.25</fuelMultiplierFactor>
+        <turretBurstCooldownTimeFactor>0.83333</turretBurstCooldownTimeFactor>
+      </li>
+    </value>
+  </Operation>
+  <!-- Mortar -->
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName="Turret_Mortar"]/comps</xpath>
+    <value>
+      <li Class="TurretExtensions.CompProperties_Upgradable">
+        <description>Rifle the mortar's barrel and improve the mechanical feeding system to improve accuracy and rate of fire.</description>
+        <costStuffCount>70</costStuffCount>
+        <costList>
+          <ComponentIndustrial>2</ComponentIndustrial>
+        </costList>
+        <researchPrerequisites>
+          <li>Mortars</li>
+        </researchPrerequisites>
+        <workToUpgrade>4500</workToUpgrade>
+        <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+        <turretGunDef>Artillery_MortarUpgraded</turretGunDef>
+        <turretBurstCooldownTimeFactor>0.75</turretBurstCooldownTimeFactor>
+      </li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAddModExtension">
+    <xpath>/Defs/ThingDef[defName="Turret_Mortar"]</xpath>
+    <value>
+      <li Class="TurretExtensions.TurretFrameworkExtension">
+        <affectedByEMP>false</affectedByEMP>
+      </li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationSequence">
+    <operations>
+      <li Class="PatchOperationTest">
+        <xpath>/Defs/ThingDef[defName="Artillery_Mortar"]/building/fixedStorageSettings/filter/disallowedCategories</xpath>
+        <success>Invert</success>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName="Artillery_Mortar"]/building/fixedStorageSettings/filter</xpath>
+        <value>
+          <disallowedCategories />
+        </value>
+      </li>
+    </operations>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName="Artillery_Mortar"]/building/fixedStorageSettings/filter/disallowedCategories</xpath>
+    <value>
+      <li>Cannonballs</li>
+    </value>
+  </Operation>
+</Patch>

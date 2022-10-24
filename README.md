@@ -141,7 +141,7 @@ Can now be upgraded to be made...
 # **Compatibility**
 
 **Mods:**
-Requires https://steamcommunity.com/workshop/filedetails/?id=1496122245]**Turret Extensions** in order to work properly. 
+Requires https://steamcommunity.com/workshop/filedetails/?id=2810485459]**Turret Extensions** in order to work properly. 
 
 Incompatible with Combat Extended. There are no other known incompatibilities.
 
@@ -152,11 +152,6 @@ Should be safely addable to ongoing savegames. There will be one-off errors when
 
 **Shotgunfrenzy and Oskar Potocki -** for providing some great artwork!
 **Marnador -** for the RimWorld-style font
-
-# **Links**
-
-GitHub releases: https://github.com/XeoNovaDan/TETurretExpansion/releases
-Source code: https://github.com/XeoNovaDan/TETurretExpansion
 
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
