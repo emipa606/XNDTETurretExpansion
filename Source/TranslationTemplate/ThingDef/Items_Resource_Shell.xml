@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cannonball -->
+  <Bullet_Cannonball_HighExplosive.label>cannonball</Bullet_Cannonball_HighExplosive.label>
+  <!-- EN: cannonball -->
+  <Shell_Cannonball_HighExplosive.label>cannonball</Shell_Cannonball_HighExplosive.label>
+  <!-- EN: A cannonball filled with gunpowder. Designed to be fired from old-fashioned cannons. Explodes when damaged. -->
+  <Shell_Cannonball_HighExplosive.description>A cannonball filled with gunpowder. Designed to be fired from old-fashioned cannons. Explodes when damaged.</Shell_Cannonball_HighExplosive.description>
+</LanguageData>

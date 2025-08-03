@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: upgraded mortar -->
+  <Artillery_MortarUpgraded.label>upgraded mortar</Artillery_MortarUpgraded.label>
+  <!-- EN: Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged. -->
+  <Artillery_MortarUpgraded.description>Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged.</Artillery_MortarUpgraded.description>
+  <!-- EN: upgraded mortar -->
+  <Artillery_MortarUpgraded.verbs.Verb_Shoot.label>upgraded mortar</Artillery_MortarUpgraded.verbs.Verb_Shoot.label>
+  <!-- EN: ballista -->
+  <Ballista.label>ballista</Ballista.label>
+  <!-- EN: An ancient but deadly contraption that launches heavy projectiles at enemies. Requires somebody to man it. Long-ranged, but fires slowly and has a limited firing arc. -->
+  <Ballista.description>An ancient but deadly contraption that launches heavy projectiles at enemies. Requires somebody to man it. Long-ranged, but fires slowly and has a limited firing arc.</Ballista.description>
+  <!-- EN: Arm durability -->
+  <Ballista.comps.CompRefuelable.fuelGizmoLabel>Arm durability</Ballista.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until arm replacement -->
+  <Ballista.comps.CompRefuelable.fuelLabel>Shots until arm replacement</Ballista.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new arm -->
+  <Ballista.comps.CompRefuelable.outOfFuelMessage>Cannot shoot: Needs new arm</Ballista.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: Reinforce the ballista with steel to improve its overall durability. -->
+  <Ballista.comps.CompUpgradable.description>Reinforce the ballista with steel to improve its overall durability.</Ballista.comps.CompUpgradable.description>
+  <!-- EN: mini-sniper turret bullet -->
+  <Bullet_TurretGunLongRange.label>mini-sniper turret bullet</Bullet_TurretGunLongRange.label>
+  <!-- EN: heavy machine gun bullet -->
+  <Bullet_TurretMGEmplacement.label>heavy machine gun bullet</Bullet_TurretMGEmplacement.label>
+  <!-- EN: cannon -->
+  <Cannon.label>cannon</Cannon.label>
+  <!-- EN: An ancient piece of artillery that launches explosive cannonballs over considerable distances. Requires somebody to man it. Has a limited firing arc and is very inaccurate. -->
+  <Cannon.description>An ancient piece of artillery that launches explosive cannonballs over considerable distances. Requires somebody to man it. Has a limited firing arc and is very inaccurate.</Cannon.description>
+  <!-- EN: Improve the cannon's accuracy by rifling the barrel. -->
+  <Cannon.comps.CompUpgradable.description>Improve the cannon's accuracy by rifling the barrel.</Cannon.comps.CompUpgradable.description>
+  <!-- EN: An ancient piece of artillery that launches explosive cannonballs over considerable distances. Requires somebody to man it. Has a limited firing arc and is somewhat inaccurate. -->
+  <Cannon.comps.CompUpgradable.upgradedTurretDescription>An ancient piece of artillery that launches explosive cannonballs over considerable distances. Requires somebody to man it. Has a limited firing arc and is somewhat inaccurate.</Cannon.comps.CompUpgradable.upgradedTurretDescription>
+  <!-- EN: mini-sniper turret gun -->
+  <Gun_TurretLongRange.label>mini-sniper turret gun</Gun_TurretLongRange.label>
+  <!-- EN: High-powered gun attached to a turret. -->
+  <Gun_TurretLongRange.description>High-powered gun attached to a turret.</Gun_TurretLongRange.description>
+  <!-- EN: mini-sniper turret gun -->
+  <Gun_TurretLongRange.verbs.Verb_Shoot.label>mini-sniper turret gun</Gun_TurretLongRange.verbs.Verb_Shoot.label>
+  <!-- EN: heavy machine gun -->
+  <Gun_TurretMGEmplacement.label>heavy machine gun</Gun_TurretMGEmplacement.label>
+  <!-- EN: A heavy machine gun mounted on top of a platform. -->
+  <Gun_TurretMGEmplacement.description>A heavy machine gun mounted on top of a platform.</Gun_TurretMGEmplacement.description>
+  <!-- EN: heavy machine gun -->
+  <Gun_TurretMGEmplacement.verbs.Verb_Shoot.label>heavy machine gun</Gun_TurretMGEmplacement.verbs.Verb_Shoot.label>
+  <!-- EN: ballista projectile -->
+  <Projectile_Ballista.label>ballista projectile</Projectile_Ballista.label>
+  <!-- EN: machine gun emplacement -->
+  <Turret_MGEmplacement.label>machine gun emplacement</Turret_MGEmplacement.label>
+  <!-- EN: A fixed gun emplacement with a heavy machine gun mounted on top. Has good power and good range, but poor accuracy and a slower rate of fire. -->
+  <Turret_MGEmplacement.description>A fixed gun emplacement with a heavy machine gun mounted on top. Has good power and good range, but poor accuracy and a slower rate of fire.</Turret_MGEmplacement.description>
+  <!-- EN: Barrel durability -->
+  <Turret_MGEmplacement.comps.CompRefuelable.fuelGizmoLabel>Barrel durability</Turret_MGEmplacement.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <Turret_MGEmplacement.comps.CompRefuelable.fuelLabel>Shots until barrel change</Turret_MGEmplacement.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrel -->
+  <Turret_MGEmplacement.comps.CompRefuelable.outOfFuelMessage>Cannot shoot: Needs new barrel</Turret_MGEmplacement.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: Improve the machine gun's feeding system to increase rate of fire, and reinforce the barrel and platform to improve overall durability. -->
+  <Turret_MGEmplacement.comps.CompUpgradable.description>Improve the machine gun's feeding system to increase rate of fire, and reinforce the barrel and platform to improve overall durability.</Turret_MGEmplacement.comps.CompUpgradable.description>
+  <!-- EN: mini-sniper turret -->
+  <TurretGunLongRange.label>mini-sniper turret</TurretGunLongRange.label>
+  <!-- EN: Precise machining and advanced sensors allow for enhanced long-distance capabilities, but this turret still can't be directly controlled. Requires steel to replace its barrel after heavy use. -->
+  <TurretGunLongRange.description>Precise machining and advanced sensors allow for enhanced long-distance capabilities, but this turret still can't be directly controlled. Requires steel to replace its barrel after heavy use.</TurretGunLongRange.description>
+  <!-- EN: Barrel durability -->
+  <TurretGunLongRange.comps.CompRefuelable.fuelGizmoLabel>Barrel durability</TurretGunLongRange.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <TurretGunLongRange.comps.CompRefuelable.fuelLabel>Shots until barrel change</TurretGunLongRange.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrel -->
+  <TurretGunLongRange.comps.CompRefuelable.outOfFuelMessage>Cannot shoot: Needs new barrel</TurretGunLongRange.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: Improve the mini-sniper turret's sensors and reinforce its barrel to improve combat performance and overall reliability. -->
+  <TurretGunLongRange.comps.CompUpgradable.description>Improve the mini-sniper turret's sensors and reinforce its barrel to improve combat performance and overall reliability.</TurretGunLongRange.comps.CompUpgradable.description>
+  <!-- EN: ballista -->
+  <Weapon_Ballista.label>ballista</Weapon_Ballista.label>
+  <!-- EN: A large crossbow that launches projectiles such as spears at high velocity. -->
+  <Weapon_Ballista.description>A large crossbow that launches projectiles such as spears at high velocity.</Weapon_Ballista.description>
+  <!-- EN: ballista -->
+  <Weapon_Ballista.verbs.Verb_Shoot.label>ballista</Weapon_Ballista.verbs.Verb_Shoot.label>
+  <!-- EN: cannon -->
+  <Weapon_Cannon.label>cannon</Weapon_Cannon.label>
+  <!-- EN: An ancient cannon designed to fire cannonballs. Very inaccurate. -->
+  <Weapon_Cannon.description>An ancient cannon designed to fire cannonballs. Very inaccurate.</Weapon_Cannon.description>
+  <!-- EN: cannon -->
+  <Weapon_Cannon.verbs.Verb_Shoot.label>cannon</Weapon_Cannon.verbs.Verb_Shoot.label>
+  <!-- EN: improved cannon -->
+  <Weapon_CannonUpgraded.label>improved cannon</Weapon_CannonUpgraded.label>
+  <!-- EN: An ancient cannon designed to fire cannonballs. Somewhat inaccurate. -->
+  <Weapon_CannonUpgraded.description>An ancient cannon designed to fire cannonballs. Somewhat inaccurate.</Weapon_CannonUpgraded.description>
+  <!-- EN: improved cannon -->
+  <Weapon_CannonUpgraded.verbs.Verb_Shoot.label>improved cannon</Weapon_CannonUpgraded.verbs.Verb_Shoot.label>
+</LanguageData>

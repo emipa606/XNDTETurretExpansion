@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2830932917
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b77395251a0c60d5fdce40813ba9ab5c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b77395251a0c60d5fdce40813ba9ab5c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.XNDTETurretExpansion/Textures/Things/Building/Security/Ballista/Ballista_east.png
+- Assets/Data/Mlie.XNDTETurretExpansion/Textures/UI/Icons/ThingCategories/Cannonballs.png
+- Assets/Data/Mlie.XNDTETurretExpansion/Textures/Things/Building/Security/MachineGunEmplacement/MachineGunEmplacement_east.png
+- Assets/Data/Mlie.XNDTETurretExpansion/Textures/Things/Item/Resource/Shell/Shell_CannonBall_HighExplosive/Shell_CannonBall_HighExplosive_a.png
+- Assets/Data/Mlie.XNDTETurretExpansion/Textures/Things/Building/Security/MachineGunEmplacement_MenuIcon.png
+- Assets/Data/Mlie.XNDTETurretExpansion/Textures/Things/Building/Security/Ballista/Ballista_north.png
+- Assets/Data/Mlie.XNDTETurretExpansion/Textures/Things/Building/Security/Ballista/Ballista_south.png
+- Assets/Data/Mlie.XNDTETurretExpansion/Textures/Things/Building/Security/TurretLongRange.png
+- Assets/Data/Mlie.XNDTETurretExpansion/Textures/Things/Building/Security/Cannon_MenuIcon.png
+- Assets/Data/Mlie.XNDTETurretExpansion/Textures/Things/Building/Security/MachineGunEmplacement/MachineGunEmplacement_north.png
+- Assets/Data/Mlie.XNDTETurretExpansion/Textures/Things/Building/Security/TurretLongRange_MenuIcon.png
+- Assets/Data/Mlie.XNDTETurretExpansion/Textures/Things/Building/Security/MachineGunEmplacement_Top.png
+- Assets/Data/Mlie.XNDTETurretExpansion/Textures/Things/Building/Security/Cannon/Cannon_south.png
+- Assets/Data/Mlie.XNDTETurretExpansion/Textures/Things/Item/Resource/Shell/Shell_CannonBall_HighExplosive/Shell_CannonBall_HighExplosive_c.png
+- Assets/Data/Mlie.XNDTETurretExpansion/Textures/Things/Building/Security/Cannon/Cannon_east.png
+- Assets/Data/Mlie.XNDTETurretExpansion/Textures/Things/Building/Security/Cannon/Cannon_north.png
+- Assets/Data/Mlie.XNDTETurretExpansion/Textures/Things/Projectile/ShellCannonBallHighExplosive.png
+- Assets/Data/Mlie.XNDTETurretExpansion/Textures/Things/Building/Security/MachineGunEmplacement/MachineGunEmplacement_south.png
+- Assets/Data/Mlie.XNDTETurretExpansion/Textures/Things/Item/Resource/Shell/Shell_CannonBall_HighExplosive/Shell_CannonBall_HighExplosive_b.png
+- Assets/Data/Mlie.XNDTETurretExpansion/Textures/Things/Building/Security/TurretLongRange_Top.png
+- Assets/Data/Mlie.XNDTETurretExpansion/Textures/Things/Building/Security/Ballista_Top.png
+Dependencies: []

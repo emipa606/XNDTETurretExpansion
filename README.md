@@ -1,4 +1,4 @@
-# XNDTETurretExpansion
+# [[XND] TE Turret Expansion (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2810488349)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -6,7 +6,6 @@ Update of XeoNovaDans mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1496140597
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
@@ -27,8 +26,7 @@ TE Turret Expansion is a vanilla-friendly turret mod that uses the extended turr
 	[td]**Cons**[/td]
 [/tr]
 [tr]
-        [td]![Image](https://i.imgur.com/82qGHTr.png)
-[/td]
+        [td]![Image](https://i.imgur.com/82qGHTr.png)[/td]
 	[td]+ Does a significant amount of damage
 + High AP for a pre-industrial weapon
 + Has a stopping power of 2.5
@@ -47,8 +45,7 @@ TE Turret Expansion is a vanilla-friendly turret mod that uses the extended turr
 	[td]**Cons**[/td]     
 [/tr]
 [tr]
-        [td]![Image](https://i.imgur.com/rnU8iX2.png)
-[/td]
+        [td]![Image](https://i.imgur.com/rnU8iX2.png)[/td]
 	[td]+ Launches explosive cannonballs
 + Excellent range
 + Portable like mortars[/td]
@@ -70,8 +67,7 @@ Cannonballs can be produced at smithies or purchased from traders.
 	[td]**Cons**[/td]
 [/tr]
 [tr]
-        [td]![Image](https://i.imgur.com/EOYHapH.png)
-[/td]
+        [td]![Image](https://i.imgur.com/EOYHapH.png)[/td]
 	[td]+ Accurate with 97% shooting accuracy
 + Does a considerable amount of damage
 + Same range as a bolt-action rifle
@@ -89,8 +85,7 @@ Cannonballs can be produced at smithies or purchased from traders.
 	[td]**Cons**[/td]
 [/tr]
 [tr]
-        [td]![Image](https://i.imgur.com/RsM9L1D.png)
-[/td]
+        [td]![Image](https://i.imgur.com/RsM9L1D.png)[/td]
 	[td]+ Same range as an assault rifle
 + Doesn't require electricity
 + Has a stopping power of 1
@@ -141,7 +136,7 @@ Can now be upgraded to be made...
 # **Compatibility**
 
 **Mods:**
-Requires https://steamcommunity.com/workshop/filedetails/?id=2810485459]**Turret Extensions** in order to work properly. 
+Requires [**Turret Extensions**](https://steamcommunity.com/workshop/filedetails/?id=2810485459) in order to work properly. 
 
 Incompatible with Combat Extended. There are no other known incompatibilities.
 
@@ -159,13 +154,12 @@ Should be safely addable to ongoing savegames. There will be one-off errors when
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2810488349]![Image](https://img.shields.io/github/v/release/emipa606/XNDTETurretExpansion?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/XNDTETurretExpansion?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2810488349) | tags:  vanilla-friendly,  expansion
