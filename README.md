@@ -1,13 +1,13 @@
 # [[XND] TE Turret Expansion (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2810488349)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of XeoNovaDans mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1496140597
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 # **Translations**
 
@@ -26,7 +26,7 @@ TE Turret Expansion is a vanilla-friendly turret mod that uses the extended turr
 	[td]**Cons**[/td]
 [/tr]
 [tr]
-        [td]![Image](https://i.imgur.com/82qGHTr.png)[/td]
+        [td]![Image](https://img.litet.net/82qGHTr.png)[/td]
 	[td]+ Does a significant amount of damage
 + High AP for a pre-industrial weapon
 + Has a stopping power of 2.5
@@ -45,7 +45,7 @@ TE Turret Expansion is a vanilla-friendly turret mod that uses the extended turr
 	[td]**Cons**[/td]     
 [/tr]
 [tr]
-        [td]![Image](https://i.imgur.com/rnU8iX2.png)[/td]
+        [td]![Image](https://img.litet.net/rnU8iX2.png)[/td]
 	[td]+ Launches explosive cannonballs
 + Excellent range
 + Portable like mortars[/td]
@@ -67,7 +67,7 @@ Cannonballs can be produced at smithies or purchased from traders.
 	[td]**Cons**[/td]
 [/tr]
 [tr]
-        [td]![Image](https://i.imgur.com/EOYHapH.png)[/td]
+        [td]![Image](https://img.litet.net/EOYHapH.png)[/td]
 	[td]+ Accurate with 97% shooting accuracy
 + Does a considerable amount of damage
 + Same range as a bolt-action rifle
@@ -85,7 +85,7 @@ Cannonballs can be produced at smithies or purchased from traders.
 	[td]**Cons**[/td]
 [/tr]
 [tr]
-        [td]![Image](https://i.imgur.com/RsM9L1D.png)[/td]
+        [td]![Image](https://img.litet.net/RsM9L1D.png)[/td]
 	[td]+ Same range as an assault rifle
 + Doesn't require electricity
 + Has a stopping power of 1
@@ -148,13 +148,13 @@ Should be safely addable to ongoing savegames. There will be one-off errors when
 **Shotgunfrenzy and Oskar Potocki -** for providing some great artwork!
 **Marnador -** for the RimWorld-style font
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -162,4 +162,4 @@ Should be safely addable to ongoing savegames. There will be one-off errors when
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/XNDTETurretExpansion?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2810488349) | tags:  vanilla-friendly,  expansion
+[![Image](https://img.shields.io/github/v/release/emipa606/XNDTETurretExpansion?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2810488349) | expansion, vanilla-friendly
